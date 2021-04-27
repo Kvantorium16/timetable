@@ -9,4 +9,14 @@
     <string name="invalid_username">Not a valid username</string>
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
+    <string name="mailing">Mailing</string>
+    <string name="name">Name</string>
+    <string name="hint">hint</string>
+    <string name="second_name">Second Name</string>
+    <string name="phone">Phone</string>
+    <string name="consent_to_the_processing_of_personal_data">Consent to the processing of personal data</string>
+    <string name="Name" />
+    <string name="name">Name</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="go_to_mailing">go to mailing</string>
 </resources>
