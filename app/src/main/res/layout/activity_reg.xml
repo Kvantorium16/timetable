@@ -10,10 +10,9 @@
 
     <View
         android:id="@+id/view"
-        android:layout_width="359dp"
-        android:layout_height="500dp"
+        android:layout_width="358dp"
+        android:layout_height="710dp"
         android:layout_marginTop="105dp"
-        android:layout_marginBottom="126dp"
         android:background="@drawable/login_bg"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
