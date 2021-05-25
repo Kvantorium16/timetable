@@ -11,8 +11,9 @@
     <View
         android:id="@+id/view"
         android:layout_width="358dp"
-        android:layout_height="710dp"
+        android:layout_height="670dp"
         android:layout_marginTop="105dp"
+        android:layout_marginBottom="40dp"
         android:background="@drawable/login_bg"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -28,6 +29,7 @@
         android:textColor="@color/white"
         android:textSize="42sp"
         android:textStyle="bold"
+        app:drawableTint="#FFFFFF"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
@@ -113,8 +115,10 @@
 
     <CheckedTextView
         android:id="@+id/checkedTextView"
-        android:layout_width="wrap_content"
+        android:layout_width="350dp"
         android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
         android:checkMark="?android:attr/listChoiceIndicatorMultiple"
         android:checked="false"
         android:paddingTop="3.6dp"
@@ -123,6 +127,7 @@
         android:textCursorDrawable="@color/black"
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="@+id/view"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/cardView" />
 
@@ -131,6 +136,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/subscribe"
+        app:backgroundTint="@color/cardview_dark_background"
         app:layout_constraintBottom_toBottomOf="@+id/view"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

@@ -2,21 +2,19 @@
     <string name="app_name">Kvantorium Timetable</string>
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
-    <string name="prompt_password">Password</string>
-    <string name="action_sign_in">Sign in or register</string>
-    <string name="action_sign_in_short">Sign in</string>
-    <string name="welcome">"Welcome!"</string>
-    <string name="invalid_username">Not a valid username</string>
-    <string name="invalid_password">Password must be >5 characters</string>
-    <string name="login_failed">"Login failed"</string>
-    <string name="mailing">Mailing</string>
-    <string name="name">Name</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">Войти или зарегистрироваться</string>
+    <string name="action_sign_in_short">Войти</string>
+    <string name="welcome">"Добро пожаловать!"</string>
+    <string name="invalid_username">Неправильное имя пользователя</string>
+    <string name="invalid_password">Пароль должен иметь больше 5 символов</string>
+    <string name="login_failed">"Вход не выполнен"</string>
+    <string name="mailing">Рассылка</string>
+    <string name="name">Имя</string>
     <string name="hint">hint</string>
-    <string name="second_name">Second Name</string>
-    <string name="phone">Phone</string>
-    <string name="consent_to_the_processing_of_personal_data">Consent to the processing of personal data</string>
-    <string name="Name" />
-    <string name="name">Name</string>
-    <string name="subscribe">Subscribe</string>
-    <string name="go_to_mailing">go to mailing</string>
+    <string name="second_name">Фамилия</string>
+    <string name="phone">Номер телефона</string>
+    <string name="consent_to_the_processing_of_personal_data">Согласие на обработку персональных данных</string>
+    <string name="subscribe">Подписаться</string>
+    <string name="go_to_mailing">К рассылке</string>
 </resources>
